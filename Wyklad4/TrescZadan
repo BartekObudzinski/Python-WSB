@@ -1,0 +1,6 @@
+Zad2 Stwórz skrypt kalkulator, w którym wykorzystać wszystkie podstawowe działania arytmetyczne
+Zad5 Zapisz swoje imie i nazwisko w oddzielnych zmiennych wszystkie wielkimi literami. Użyj odpowiedniej metody
+      by wyświetlić je pisane tak, że pierwsza litera jest wielka a pozostałe małe. (trzeba użyć metody capitalize)
+Zad10 Napisz skrypt, w którym tworzysz listę ulubionych filmów i posortuj ją.
+Zad13 Stwórz słownik, gdzie zapiszesz imiona i nazwiska swoich znajomych jako klucz proszę użyć ich przezwisk (10
+elementów). Następnie wyświetl kilka danych odwołując się do elementów przez klucz.
