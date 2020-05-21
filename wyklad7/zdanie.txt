@@ -1,0 +1,5 @@
+To sa liczby podzielne przez 4
+aby uzyskac liczby podzielne przez 4
+nalezy uzyc petli for
+warunku if
+i znaczka modulo
